@@ -1,12 +1,12 @@
 {
-    "version": "0.13.1",
+    "version": "0.14.0",
     "description": "Data token killer: a Claude Code hook that turns big tables into lean summaries. Works with rtk.",
     "homepage": "https://github.com/amaye15/dtk",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/amaye15/dtk/releases/download/v0.13.1/dtk-v0.13.1-x86_64-pc-windows-msvc.zip",
-            "hash": "8235b85f6260e2f6b5d77f1dcb214bc1562eb3b7c90c64e7799ce6480c38191c"
+            "url": "https://github.com/amaye15/dtk/releases/download/v0.14.0/dtk-v0.14.0-x86_64-pc-windows-msvc.zip",
+            "hash": "c66a91ab884a4d6c6228d7ed228360b51a87264e94d07ea61edb800b323ee246"
         }
     },
     "bin": "dtk.exe",
